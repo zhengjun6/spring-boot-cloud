@@ -1,0 +1,20 @@
+
+#spring.cloud.consul.host=localhost
+#spring.cloud.consul.port=8500
+server.port =8083
+
+spring.application.name=turbine
+#spring.cloud.config.server.git.uri=https://github.com/zhengjun6/config
+#spring.cloud.config.server.git.searchPaths=/**
+##spring.cloud.config.server.git.username=zhengjun6
+##spring.cloud.config.server.git.password=zj969809473
+#spring.cloud.config.label=master
+
+
+
+spring.colud.consul.host=localhost
+spring.colud.consul.port=8500
+spring.cloud.consul.discovery.tags=dev
+spring.colud.consul.discovery.healthCheckInterval=15s
+
+turbine.app-config=client1,config-server

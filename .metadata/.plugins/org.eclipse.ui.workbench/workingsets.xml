@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1522071984183_2" label="config-server" name="config-server"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1522073694862_3" label="JunDemo" name="JunDemo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JunDemo" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521987750105_0" label="Window Working Set" name="Aggregate for window 1521987750104"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521990249654_1" label="Window Working Set" name="Aggregate for window 1521990249654"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1522678195963_4" label="Window Working Set" name="Aggregate for window 1522678195963"/>
+</workingSetManager>
